@@ -1,27 +1,27 @@
 # Reviews and Satisfaction Analysis of AirBnB Brazil and Mexico from June 2010 to February 2021
 
-Here you will find the original final submission, thats the same as the repositorie's directory but in Spanish.
+Here you will find the original final submission, that's the same as the repositories' directory but in Spanish.
 
 
 ------
 
-# Analisis de reviews y satisfacción de AirBnB Brazil y Mexico de Junio 2010 a Febrero 2021
+# Análisis de reviews y satisfacción de AirBnB Brazil y Mexico de Junio 2010 a Febrero 2021
 
-Este proyecto analiza los reviews y satsifacción de clientes que utilizarón los servicios de AirBnB. Además, estudia si existen otras relaciones con las demás variables.
+Este proyecto analiza los reviews y satisfacción de clientes que utilizaron los servicios de AirBnB. Además, estudia si existen otras relaciones con las demás variables.
 
 # 🧾 Report
 
-El archivo 'Informe final.pdf' describe el proceso ETL, los calculos DAX y la construcción del dashboard final en power bi.
+El archivo 'Informe final.pdf' describe el proceso ETL, los cálculos DAX y la construcción del dashboard final en power bi.
 
 
 # 🗂️ Folders and files
 
 ### Folders:
-- **1 Dataset para carga:** El dataset despues de la primera limpieza en excel.
+- **1 Dataset para carga:** El dataset después de la primera limpieza en excel.
 - **2 SQL Database y Queries para carga:** Todos los queries para crear la bd y cargar la data en formato .sql + Backup de la BD cargada en formato .bak
 
 ### Files:
-- **Informe fianl.pdf:** Informe final de todos los procesos y calculos realizados en este trabajo.
+- **Informe final.pdf:** Informe final de todos los procesos y cálculos realizados en este trabajo.
 - **Analisis AirBnB.pbix:** Dashboard del proyecto
 
 # 📑 Instrucciones (carga de datos):
@@ -29,7 +29,7 @@ El archivo 'Informe final.pdf' describe el proceso ETL, los calculos DAX y la co
 1. Cargar los datos a sql-server (puedes usar el archivo 'Carga a SQL server.bat' actualizando las credenciales en el mismo archivo).
 2. Entrar al archivo .pbix
 3. Entrar a Power Query
-4. Actualizar los parámetros con las crédenciales sql-server.
+4. Actualizar los parámetros con las credenciales sql-server.
 
 
 
